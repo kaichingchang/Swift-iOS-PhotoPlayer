@@ -4,15 +4,15 @@
 
 App 啟動後如下圖
 
-![圖片](https://farm5.staticflickr.com/4371/36335494631_5f269512df_n.jpg "Player01")
+![圖片](https://camo.githubusercontent.com/e20c6bf61dcbd0f293a4c790fe3e999202ccecd7/68747470733a2f2f6661726d352e737461746963666c69636b722e636f6d2f343337312f33363333353439343633315f356632363935313264665f6e2e6a7067 "Player01")
 
 照片輪播中
 
-![圖片](https://farm5.staticflickr.com/4361/36304680852_df75e2408f_n.jpg "Player02")
+![圖片](https://camo.githubusercontent.com/168a1f8a33afb20caca23403f8c943e82046c153/68747470733a2f2f6661726d352e737461746963666c69636b722e636f6d2f343336312f33363330343638303835325f646637356532343038665f6e2e6a7067 "Player02")
 
 版權頁面
 
-![圖片](https://farm5.staticflickr.com/4379/35664603643_0157b5942f_n.jpg "Player05")
+![圖片](https://camo.githubusercontent.com/8a75f2abf03a6a462af7ec414633750d11c9ad35/68747470733a2f2f6661726d352e737461746963666c69636b722e636f6d2f343337392f33353636343630333634335f303135376235393432665f6e2e6a7067 "Player05")
 
 App 圖示取自 [openclipart](https://openclipart.org/ "openclipart") ，其他照片為作者所拍（作者 [flickr 相簿](https://www.flickr.com/photos/kaiching/ "flickr") ），未經作者書面同意，請勿將照片移作其他商業用途。
 
