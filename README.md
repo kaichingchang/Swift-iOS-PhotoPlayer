@@ -1,0 +1,26 @@
+# Swift-iOS-PhotoPlayer
+
+圖片自動播放器，使用者按下 播放 按鈕後，以輪播方式顯示照片。
+
+App 啟動後如下圖
+
+![圖片](https://farm5.staticflickr.com/4371/36335494631_5f269512df_n.jpg "Player01")
+
+照片輪播中
+
+![圖片](https://farm5.staticflickr.com/4361/36304680852_df75e2408f_n.jpg "Player02")
+
+版權頁面
+
+![圖片](https://farm5.staticflickr.com/4379/35664603643_0157b5942f_n.jpg "Player05")
+
+App 圖示取自 [openclipart](https://openclipart.org/ "openclipart") ，其他照片為作者所拍（作者 [flickr 相簿](https://www.flickr.com/photos/kaiching/ "flickr") ），未經作者書面同意，請勿將照片移作其他商業用途。
+
+本專案為《Swift 入門指南 3.00》的專案開發練習範例，如欲購書請參考以下連結
+
+[Google Play](https://play.google.com/store/books/details?id=AO9IBwAAQBAJ)
+[iBooks Store](https://itunes.apple.com/us/book/id1079291979)
+[Readmoo](https://readmoo.com/book/210034848000101)
+[Pubu](http://www.pubu.com.tw/ebook/65565?apKey=576b20f092)
+
+作者網站 [http://www.kaiching.org](http://www.kaiching.org)
